@@ -21,7 +21,7 @@
             <div class="table"> 
                 <div class="entry">
                     <b>ID: </b>
-                    ${customer.cutomerId} <br>
+                    ${customer.cutomerId} <br> mike stinker
                 </div>
                 <div class="entry">
                     <b>Fornavn: </b>
