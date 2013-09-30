@@ -1,0 +1,45 @@
+/* 
+    Document   : style
+    Created on : 26-09-2013, 18:32:15
+    Author     : Anders
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+        background-image: url(images/tweed.png);
+        font-family: 'Open Sans', sans-serif;
+        color: #cccccc;
+}
+#header {
+    width: 50%;
+    text-align:center;
+    margin: auto;
+    padding-bottom: 5px;
+}
+#centerText {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding-top: 5px;
+    
+}
+.table {
+    width: 460px;
+}
+.entry {
+    width: auto;
+    margin: auto;
+}
+.entry b {
+    display: block;
+    float: left;
+    width: 100px;
+}
+.entry input {
+    width: 250px;
+}
+.entry button {
+    width: 150px;
+    margin: auto;
+}
