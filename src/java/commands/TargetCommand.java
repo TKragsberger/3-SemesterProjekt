@@ -9,6 +9,9 @@ public class TargetCommand implements Command {
     public TargetCommand(String target) {
         this.target = target;
     }
+    public TargetCommand(String target, String title) {
+        this.target = target;
+    }
 
     @Override
     public String execute(HttpServletRequest request) {
